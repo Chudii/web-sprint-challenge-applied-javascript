@@ -83,7 +83,7 @@ const cardAppender = (selector) => {
         })
 
 
-      // res.data.forEach(articles => {
+      // (articles => {
       //   articles.forEach(art => {
       //     const card = Card(art);
       //     selector.appendChild(card);
